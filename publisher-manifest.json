@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "575a6d0952c1375faf01ab77",
+  "owner": "fcak4dfp",
+  "repo": "page-00981004503fabd125ccf34b",
+  "title": "白蘑菇",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "00981004503fabd125ccf34b",
+      "a": "白蘑菇",
+      "b": "",
+      "entity": "白蘑菇",
+      "brand": "白蘑菇",
+      "separator": "",
+      "path": "index.html",
+      "hash": "cf9075dc9ff7863c5cf4e7ec7c0d0fc882a1efaa9a01df2cbae6881aec0d0b5d",
+      "content": {
+        "keyword1": "白蘑菇",
+        "keyword2": "",
+        "primary_entity": "白蘑菇",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "白蘑菇是提供机场订阅与VPN网络加速的品牌官网。页面详解套餐对比、使用场景、客户端下载与操作说明，助您快速配置节点实现稳定加速。",
+          "AI_DESCRIPTION": "白蘑菇是提供机场订阅与VPN网络加速的品牌官网。页面详解套餐对比、使用场景、客户端下载与操作说明，助您快速配置节点实现稳定加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif;font-size:16px;line-height:1.65;color:#2c2c2c;background:#FDF8F4}.container{max-width:920px;margin:0 auto;padding:0 16px}header{padding:72px 0 48px;text-align:center;background:#FFF6F1}.tag{color:#D85A45;font-size:13px;letter-spacing:1.5px;margin:0 0 10px}h1{font-size:2.6rem;color:#C23A22;margin:0 0 16px;font-weight:700;line-height:1.2}.lead{font-size:1.15rem;color:#5a5a5a;max-width:560px;margin:0 auto 28px}nav{font-size:15px}nav a{color:#C45C4A;margin:0 10px;text-decoration:none}h2{font-size:1.45rem;color:#222;margin:48px 0 16px;padding-bottom:8px;border-bottom:3px solid #FF7F50}h3{font-size:1.15rem;color:#333;margin:24px 0 8px}p{margin:0 0 14px}.plans{display:grid;grid-template-columns:1fr;gap:20px;margin:24px 0}@media(min-width:768px){.plans{grid-template-columns:repeat(3,1fr);align-items:stretch}}.plan{background:#fff;border:1px solid #F2D6CC;border-radius:10px;padding:22px 20px;display:flex;flex-direction:column}.plan.featured{border:2px solid #FF7F50;background:#FFF9F6;position:relative}.badge{position:absolute;top:12px;right:12px;background:#FF7F50;color:#fff;font-size:11px;padding:3px 8px;border-radius:3px}.price{font-size:1.75rem;font-weight:700;color:#E24B35;margin:4px 0 2px}.annual{font-size:13px;color:#888;margin-bottom:12px}.plan ul{margin:0 0 16px;padding-left:18px;flex-grow:1}.plan li{margin-bottom:6px}.plan a{color:#D94F3D;font-weight:600}details{background:#fff;border:1px solid #eee;border-radius:8px;padding:4px 16px;margin:0 0 10px}summary{padding:10px 0;font-weight:600;color:#333}details p{padding-bottom:10px;color:#555;font-size:15px}.ad{background:#fff;border:1px dashed #E07A5F;padding:18px;text-align:center;margin:20px 0;color:#666;border-radius:6px}footer{background:#F3E8E2;padding:36px 0;margin-top:56px;font-size:14px;color:#666}footer h3{margin-top:0;font-size:1rem;border:none;padding:0}footer a{color:#C45C4A;margin-right:14px;text-decoration:none}#sitemap{margin-top:16px;padding-top:16px;border-top:1px solid #e0d0c8}ul{padding-left:20px}li{margin:6px 0}</style><header><div class=\"container\"><p class=\"tag\">官方网站 · 机场订阅 · 客户端下载</p><h1>白蘑菇</h1><p class=\"lead\">稳定高速的网络加速梯子，提供多套餐机场订阅与全平台客户端使用指南。</p><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐对比</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a></nav></div></header><main class=\"container\"><section id=\"intro\"><h2>品牌简介</h2><p>白蘑菇是面向个人与团队的网络加速品牌，核心产品为机场订阅服务。用户可按月或按年选择流量套餐，获取可用于多种客户端的订阅链接，实现科学上网、内容解锁与游戏加速。白蘑菇官方网站集中发布套餐信息、使用指南与客户端推荐，方便从正规渠道完成配置。</p><p>线路方面，节点覆盖亚太与欧美主要地区，普通线路满足日常浏览与基础解锁，旗舰与团队套餐提供 IPLC 专线优化，适合对延迟敏感的游戏与实时通讯。订阅后即可在 Clash、Shadowrocket、sing-box 等工具中导入使用，本站不绑定单一客户端。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与协作</h3><p>远程访问海外系统、云文档与协作工具时，白蘑菇节点可减少超时。按需选择低负载线路，配合客户端分流规则，仅代理必要流量。</p><h3>流媒体与内容访问</h3><p>观看海外影视与音乐平台时，基础版覆盖常见解锁需求，旗舰版强调全节点原生体验，有助于降低缓冲。实际可用性随节点与平台策略变化，建议更新订阅后测试。</p><h3>游戏与实时通讯</h3><p>旗舰版包含 IPLC 专线游戏加速优化，团队版适合多设备同时在线。选择对应地区节点可改善国际服连接体验。</p><h3>学习研究与开发</h3><p>访问文档、开源仓库与学术资源时，稳定带宽有助于下载与在线查阅。团队版支持更高流量与定制路由思路，便于工作室统一管理。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>白蘑菇提供三种官方套餐，可按月订阅，年付价格更优惠。请根据每月流量、同时在线设备数以及对专线、工单支持的需求选择。以下方案以本页为准。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#guide\">查看订阅与导入说明</a></p></div><div class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#guide\">查看客户端下载指引</a></p></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#guide\">适合多设备团队</a></p></div></div><p>流量按自然月重置，未使用部分不结转。同时在线设备以实际连接会话计算。支付完成后将获得订阅地址，用于在客户端中导入节点。</p></section><section id=\"guide\"><h2>客户端下载与操作说明</h2><h3>获取机场订阅</h3><p>在白蘑菇官网选定套餐并完成支付后，账户侧会提供订阅链接（常见为 Clash 或通用格式）。请妥善保存该链接，避免公开传播，以免流量被占用。</p><h3>官方下载指引与兼容客户端</h3><p id=\"download\">白蘑菇兼容主流代理工具，请从各软件自己的官方渠道获取安装包，不要使用来路不明的“专用客户端”。常用选择如下：</p><ul><li>Windows：Clash for Windows、v2rayN、sing-box</li><li>macOS：ClashX Meta、Surge、Quantumult</li><li>Android：Clash Meta、v2rayNG、surfboard</li><li>iOS：Shadowrocket、Stash、Quantumult X</li><li>路由与其他：支持订阅导入的 OpenWrt 插件或 sing-box 核心</li></ul><h3>导入与连接步骤</h3><p>安装客户端后，打开订阅或配置导入功能，粘贴白蘑菇提供的链接并更新。在节点列表中选择延迟较低或符合场景的线路，开启系统代理或 TUN 模式。流媒体可配合规则分流，游戏可优先尝试 IPLC 相关节点。</p><h3>使用与维护建议</h3><p>定期在客户端内更新订阅以同步节点变化。遇到连接问题先切换节点或协议，旗舰与团队用户可通过优先工单说明客户端类型与错误现象。建议仅代理需要出境的应用，本地流量直连以节省套餐额度。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>白蘑菇是什么？和普通 VPN 有何不同？</summary><p>白蘑菇以机场订阅方式提供网络加速：一次订阅可在多款客户端、多台设备上使用节点池，并可自行配置分流。相比单一封装的 VPN 应用，灵活度更高，也便于按流量与设备数选择套餐。本站为白蘑菇官方网站，用于查阅套餐与操作说明。</p></details><details><summary>如何进行客户端下载并导入订阅？</summary><p>请使用上文列出的成熟客户端，从对应官方站点或应用商店下载。打开软件后找到订阅导入，粘贴白蘑菇套餐提供的链接，更新节点后选择线路连接即可。白蘑菇不强制捆绑某一款软件，也不提供来源不明的安装包。</p></details><details><summary>流量用完或设备超限会怎样？</summary><p>当月流量耗尽后需等待重置或升级套餐。同时在线设备数为基础版 3 台、旗舰版 5 台、团队版 20 台，超出可能影响新连接。轻度浏览可选基础版，个人重度与游戏更适合旗舰版，多设备环境考虑团队版。</p></details><details><summary>年付如何计算？能否先月付试用？</summary><p>年付价格按各套餐标注，相当于约十个月费用，适合确定长期使用的用户。可以先选择月付熟悉客户端与节点表现，再决定是否改年付。具体开通与变更以购买时说明为准，价格以本页套餐对比为准。</p></details><details><summary>节点稳定性如何？需要经常更换吗？</summary><p>为应对网络环境变化，节点会不定期调整，在客户端中更新订阅即可获取最新列表。日常使用普通线路即可，游戏与低延迟需求可优先旗舰版 IPLC 优化线路。高峰期可能出现波动，优先工单用户可获得更快排查支持。</p></details><details><summary>能否解锁流媒体、游戏和国际网站？</summary><p>基础版面向常见流媒体解锁，旗舰版强调全节点原生解锁与游戏线路。国际网站与部分平台因风控策略，效果因节点而异，请以实际连接测试为准。我们持续维护规则，但不承诺永久解锁所有内容与地区。</p></details></section><section><h2>官方渠道提示</h2><p>请通过白蘑菇官方网站获取套餐说明与客户端指引，避免非官方群组中的不明链接。订阅地址属于个人凭证。配置完成后，可在客户端查看流量统计，按场景切换节点，以兼顾速度与套餐用量。</p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"container\"><div class=\"ad\" id=\"ads\">广告位：欢迎相关网络工具、教程站点与加速服务洽谈文字互换展示。</div><div id=\"friends\"><h3>友情链接</h3><p><a href=\"#\">客户端使用百科</a><a href=\"#\">流媒体解锁常识</a><a href=\"#\">IPLC 线路说明</a><a href=\"#\">分流规则入门</a></p></div><div id=\"sitemap\"><p>站点地图：<a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#guide\">客户端下载</a><a href=\"#faq\">常见问题</a></p><p>© 白蘑菇官方网站 · 机场订阅与 VPN 网络加速信息发布页</p></div></div></footer>",
+          "hash": "58bcca30f4d1d6bebc4a8db26f555ed45a9b04dc10f6c6d046a53e10ca195329",
+          "seo": {
+            "title": "白蘑菇官网｜VPN梯子与机场订阅服务 客户端官方下载",
+            "keywords": "白蘑菇,白蘑菇官网,白蘑菇机场,白蘑菇VPN,机场订阅,VPN客户端下载,网络加速,梯子,加速器,官方下载,流媒体解锁,IPLC专线",
+            "description": "白蘑菇是提供机场订阅与VPN网络加速的品牌官网。页面详解套餐对比、使用场景、客户端下载与操作说明，助您快速配置节点实现稳定加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "asljl.cn",
+    "host": "p-985204794e.asljl.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "asljl.cn",
+      "url": "https://asljl.cn/",
+      "label": "CLAPSE",
+      "apex": "asljl.cn",
+      "kind": null,
+      "identity": "arjmps/page-fa5257836101f86859e9a7fb"
+    },
+    {
+      "host": "chonglangmaossr.com",
+      "url": "https://chonglangmaossr.com/",
+      "label": "白蘑菇",
+      "apex": "chonglangmaossr.com",
+      "kind": null,
+      "identity": "qtygwkgvm/page-35a55ae24b878cd860812d3c"
+    },
+    {
+      "host": "chuanzhangyunjc.com",
+      "url": "https://chuanzhangyunjc.com/",
+      "label": "白蘑菇",
+      "apex": "chuanzhangyunjc.com",
+      "kind": null,
+      "identity": "rtparg/page-330b49b39949d4230127e352"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "0d54c1583d2e82c094f052dacb46767474cffacddca3f97d4fdfc566bdf88264",
+    "sitemap.xml": "430b01deee81db0c50071d203593b7da9d435676a2955b4de0b525885cf9cab1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6195f873d4f7ce6c3d7a323e7604042e3a9c78563e6ed827b6837f28119b3924",
+    "robots.txt": "c6ac23b6fb873c0667dd1aa37afb246b4fb87111bae6b5375644307c05f66882",
+    "e5bf967effdb99700175eaee877a29fe.txt": "537295c709dd3f543e6912edbb755ea181e7d05ea63730914b7647fdd6c5c886"
+  },
+  "revision": "f68676d4c23d0b2757fb18f1cd84904c344d7f7a277c14a930d713a4c7d37ec7"
+}
